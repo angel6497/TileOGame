@@ -9,5 +9,5 @@
 ### Game Mode
   When the game starts players take turns to roll the dice and move around the board. Action cards are activated when a player lands on them and they release an action card that affects the game. The game ends when a player lands on the hidden tile and wins.
   
-### Iplementation
+### Implementation
   The game was implemented using a model oriented approach. A class diagram was created at the beginning of the development process and umple was used to generate this model. Specific functionality was then added to the generated, and manually creared classes.
